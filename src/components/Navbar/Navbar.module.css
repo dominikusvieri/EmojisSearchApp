@@ -1,0 +1,20 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: green;
+    padding: 0 16px;
+    height: 55px;
+}
+
+.navTitle{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navIcon{
+    height: 32px;
+    width: 32px;
+}
